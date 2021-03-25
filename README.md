@@ -2,7 +2,7 @@
 - 👀 I’m interested in cp, projects and help others in there project
 - 🌱 I’m currently learning C++, etc...
 - 💞️ I’m looking to collaborate on different projects and help others...
-- 📫 Reach me on LinkedIn
+- 📫 Reach me on LinkedIn(meet-patelb99a951ab)
 
 <!---
 mkpatel-247/mkpatel-247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
