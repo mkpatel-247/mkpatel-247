@@ -6,8 +6,11 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Meet%20Patel&animation=fadeIn&color=gradient&height=100&texBg=true"/>
-  <img src="https://capsule-render.vercel.app/api?section=header&type=transparent&text=Connect%20With%20Me&animation=fadeIn&color=gradient&customColorList=0,12,2,5,30&height=100&texBg=true"/>
-  <p align="center">
+  <!-- <img src="https://capsule-render.vercel.app/api?section=header&type=transparent&text=Connect%20With%20Me&animation=fadeIn&color=gradient&customColorList=0,12,2,5,30&height=100&texBg=true"/>
+  <p align="center"> -->
+  <h1>
+  Connect with me
+  </h1>
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
