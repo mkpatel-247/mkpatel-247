@@ -5,12 +5,14 @@
 - 📫 Reach me on LinkedIn(https://www.linkedin.com/in/meet-patel247/) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Meet%20Patel&animation=fadeIn&color=gradient&height=100&texBg=true"/>
+  <img src="https://capsule-render.vercel.app/api?section=header&type=transparent&text=Hello%20Everyone!&animation=fadeIn&color=gradient&height=100&texBg=true&fontColor=2ea5f5"/>
   <!-- <img src="https://capsule-render.vercel.app/api?section=header&type=transparent&text=Connect%20With%20Me&animation=fadeIn&color=gradient&customColorList=0,12,2,5,30&height=100&texBg=true"/>
   <p align="center"> -->
-  <h1>
+  </p>
+  <h1 align="center">
   Connect with me
   </h1>
+<p align="center">
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
@@ -30,18 +32,15 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
   <hr>
-</p>
 
-[![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkpatel-247&show_icons=true&theme=transparent)
+<!-- ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkpatel-247&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&langs_count=5)]
-(https://github.com/mkpatel-247/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&langs_count=5) -->
 
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/mkpatel-247">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkpatel-247&theme=transparent&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&theme=transparent&layout=compact" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&theme=transparent&layout=compact" />
 </a>
 
 ```yaml
@@ -71,8 +70,9 @@ currently_learning: ["DSA, PHP, and Basic of JS"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
 
-![Snake animation](https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&text=Thank%20You!&animation=fadeIn&color=gradient&height=100&texBg=true&fontAlign=79"/>
+</p>
 <!---
 mkpatel-247/mkpatel-247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
