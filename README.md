@@ -5,15 +5,11 @@
 - 📫 Reach me on LinkedIn(https://www.linkedin.com/in/meet-patel247/) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&text=Hello%20Everyone!&animation=fadeIn&color=gradient&height=100&texBg=true&fontColor=2ea5f5"/>
-  <!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=%20%20Hey%20I'm%20Meet%20%20&fontAlign=30&fontSize=30&textBg=true&desc=IT%20Student%20and%20Freelancer&descAlign=60&descAlignY=50"/>   -->
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=transparent&fontColor=2ea5f5&text=I'm%20Meet&height=150&fontSize=60&desc=CS%20Student%20Freelancer&descAlignY=75&descAlign=60"/>
-
-  <!-- <img src="https://capsule-render.vercel.app/api?section=header&type=transparent&text=Hello%20Everyone!&animation=fadeIn&color=gradient&height=100&texBg=true&fontColor=2ea5f5"/> -->
-  <img alt="GIF" src="https://github.com/mkpatel-247/mkpatel-247/blob/master/code.gif?raw=true" width="500" height="320"/>
-  <!-- <img src="https://capsule-render.vercel.app/api?section=header&type=transparent&text=Connect%20With%20Me&animation=fadeIn&color=gradient&customColorList=0,12,2,5,30&height=100&texBg=true"/>
-  <p align="center"> -->
-  <!-- </p> -->
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=transparent&fontColor=2ea5f5&text=Hey,%20I'm%20Meet&height=150&fontSize=60&desc=%20CS%20Student%20and%20Freelancer&descAlignY=75&descAlign=60"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
+<img align="left" alt="GIF" src="https://github.com/mkpatel-247/mkpatel-247/blob/master/code.gif" width="500" height="320"/>
+<!--   ![] (https://github.com/mkpatel-247/mkpatel-247/blob/main/code.gif) -->
   <h1 align="center">
   Connect with me 💬
   </h1>
@@ -24,16 +20,10 @@
 <a href="https://in.linkedin.com/in/meet-patel247">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<!-- <a href="https://thepiyushmalhotra.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a> -->
-<a href="https://dev.to/thepiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-<a href="https://twitter.com/Ipiyushmalhotra">
+<a href="https://twitter.com/__Meet_Patel">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/patel_meet.99/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -97,8 +87,10 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 ![Snake animation](https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
+<img src="https://github.com/mkpatel-247/mkpatel-247/blob/main/gitartwork.svg"/>
+
+<!-- <p align="center"> -->
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&animation=fadeIn&color=gradient&height=100&texBg=true&fontAlign=79"/>
 </p>
 
