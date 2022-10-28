@@ -14,5 +14,5 @@ jobs:
             # Use this username's contribution graph  
             user_name: mkpatel-247
             # Text on contribution graph 
-            text: MEET PATEL
+            text: MEET
        - uses: jasineri/simple-push-action@v1
