@@ -8,7 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?section=header&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
   <img src="https://capsule-render.vercel.app/api?section=footer&type=transparent&fontColor=2ea5f5&text=Hey,%20I'm%20Meet&height=150&fontSize=60&desc=%20CS%20Student%20and%20Freelancer&descAlignY=75&descAlign=60"/>
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
-<img align="left" alt="GIF" src="https://github.com/mkpatel-247/mkpatel-247/blob/master/code.gif" width="500" height="320"/>
 <!--   ![] (https://github.com/mkpatel-247/mkpatel-247/blob/main/code.gif) -->
   <h1 align="center">
   Connect with me 💬
@@ -27,15 +26,21 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+<p align="center">
+  <img src="https://github.com/mkpatel-247/mkpatel-247/blob/main/code.gif" height="300" width="500"/>
+</p>
+<hr>
 
 <!-- ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkpatel-247&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&langs_count=5) -->
 
-<a href="https://github.com/mkpatel-247">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkpatel-247&theme=transparent&show_icons=true" />
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&theme=transparent&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/mkpatel-247">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkpatel-247&theme=transparent&show_icons=true" />
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&theme=transparent&layout=compact" />
+  </a>
+</p>
   <h1>
     👨‍💻&nbsp;Little Bit About Me and My Interests 👇
   </h1>
@@ -67,8 +72,10 @@ currently_learning: ["DSA, PHP, and Basic of JS"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 ```
+
 <h2> 📖&nbsp;Some Tools That I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
+<span align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp" width="45" height="45" />
@@ -84,10 +91,11 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <!-- to fetch icon follow this link- https://devicon.dev/ -->
-</p>
+</span>
 
-![Snake animation](https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
+
+<img src="https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg"/>
+
 <img src="https://github.com/mkpatel-247/mkpatel-247/blob/main/gitartwork.svg"/>
 
 <!-- <p align="center"> -->
@@ -98,4 +106,3 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 mkpatel-247/mkpatel-247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```
