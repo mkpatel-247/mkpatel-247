@@ -53,7 +53,7 @@ I'm a first year CS graduate pursuing MCA and a passionate programmer who loves 
   
 ```yaml
 name: Meet Patel
-located_in: Gandhidham, Gujarat
+located_in: Gujarat, India
 current_job: Student and Freelancer
 education:
   [
@@ -72,7 +72,7 @@ fields_of_interests:
   ]
 technical_background: ["Looking Forward Towards Software Developer Roles"]
 
-currently_learning: ["DSA, PHP, and Basic of JS"]
+currently_learning: ["DSA, ReactJS, and Django"]
 2022 Goals: ["Create 2-3 Projects and learn at least 3 new Technologies."]
 hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
