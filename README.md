@@ -73,7 +73,7 @@ fields_of_interests:
 technical_background: ["Looking Forward Towards Software Developer Roles"]
 
 currently_learning: ["DSA, ReactJS, and Django"]
-2022 Goals: ["Create 2-3 Projects and learn at least 3 new Technologies."]
+2023 Goals: ["Create 2-3 Projects and learn at least 3 new Technologies."]
 hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
 ```
@@ -103,11 +103,11 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 <summary>
 <h2><i><b>📈 Github Stats : </b></i></h1>
 </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=mkpatel-247&theme=transparent&hide_border=true"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mkpatel-247&theme=transparent&hide_border=true"/> -->
             
 <!--             &hide_border=true&title_color=006AFF&amp&icon_color=006AFF&amp&text_color=2C4485&amp&bg_color=101112 -->
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&layout=compact&theme=transparent&hide_border=true"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&layout=compact&theme=transparent&hide_border=true"/> -->
 <!--        &hide_border=true&title_color=006AFF&amp&icon_color=006AFF&amp&text_color=2C4485&amp&bg_color=101112"/> -->
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkpatel-247&layout=compact&theme=github-dark-blue&hide_border=true"/>
