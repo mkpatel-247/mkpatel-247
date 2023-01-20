@@ -15,4 +15,5 @@ jobs:
             user_name: mkpatel-247
             # Text on contribution graph 
             text: MEET
-       - uses: jasineri/simple-push-action@v1
+       - name: gitartwork on contribution graph
+         uses: jasineri/gitartwork@v1
