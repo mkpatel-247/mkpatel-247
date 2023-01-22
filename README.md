@@ -109,12 +109,12 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
             
 <!--             &hide_border=true&title_color=006AFF&amp&icon_color=006AFF&amp&text_color=2C4485&amp&bg_color=101112 -->
   
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&layout=compact&theme=transparent&hide_border=true"/> -->
 <!--        &hide_border=true&title_color=006AFF&amp&icon_color=006AFF&amp&text_color=2C4485&amp&bg_color=101112"/> -->
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkpatel-247&layout=compact&theme=github-dark-blue&hide_border=true"/>
-<!--   &hide_border=true&title_color=006AFF&icon_color=006AFF&text_color=2C4485&bg_color=101112"/> -->
   
+<!--   &hide_border=true&title_color=006AFF&icon_color=006AFF&text_color=2C4485&bg_color=101112"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&layout=compact&theme=transparent&hide_border=true"/>
 </details>
 <p align="center">
 <img src="https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg"/>
