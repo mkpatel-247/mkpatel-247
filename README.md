@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/mkpatel-247">
     <img src="https://capsule-render.vercel.app/api?section=header&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
-    <img src="https://capsule-render.vercel.app/api?section=footer&type=transparent&fontColor=2ea5f5&text=Hey,%20I'm%20Meet&height=150&fontSize=60&desc=%20CS%20Student%20and%20DSA%20Guy&descAlignY=75&descAlign=60"/>
+    <img src="https://capsule-render.vercel.app/api?section=footer&type=transparent&fontColor=2ea5f5&text=Hey,%20I'm%20Meet&height=150&fontSize=60&desc=%20CS%20Student%20and%20Freelancer&descAlignY=75&descAlign=60"/>
 <!--     <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px>  -->
     <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
   </a>
