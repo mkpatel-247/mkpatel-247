@@ -103,7 +103,7 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
 <details open="">
 <summary>
-<h2><i><b>📈 Github Stats : </b></i></h1>
+<h2><i><b>📈 Github Stats : </b></i></h2>
 </summary>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=mkpatel-247&theme=transparent&hide_border=true"/> -->
             
