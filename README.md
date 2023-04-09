@@ -116,6 +116,7 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpatel-247&layout=compact&theme=transparent&hide_border=true"/>
 </details>
 <p align="center">
+<!--Snake Game-->
 <img src="https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg"/>
 
 <img src="https://github.com/mkpatel-247/mkpatel-247/blob/main/gitartwork.svg"/>
