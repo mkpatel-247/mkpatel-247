@@ -36,12 +36,12 @@ I'm a first year CS graduate pursuing MCA and a passionate programmer who loves 
 <a href="https://in.linkedin.com/in/meet-patel247">
   <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
 </a>&nbsp;
-<a href="https://twitter.com/__Meet_Patel">
+<!-- <a href="https://twitter.com/__Meet_Patel">
   <img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/>
 </a>&nbsp;
 <a href="https://www.instagram.com/patel_meet.99/">
   <img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
-</a>&nbsp;
+</a>&nbsp; -->
 <br>
 <hr>
 
