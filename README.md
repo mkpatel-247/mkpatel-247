@@ -10,13 +10,13 @@
 <img src="https://komarev.com/ghpvc/?username=mkpatel-247&style=plastic&color=blue" /> 
 <hr>
 
-I'm a first year CS graduate pursuing MCA and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills also trying to engage in community to gain knowledge about programming and related stuffs.  <br>
+I'm a first-year CS graduate pursuing MCA and a passionate programmer who loves to code. I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills and also trying to engage in the community to gain knowledge about programming and related kinds of stuff.  <br>
   <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height="300" width="400"/>
   
 
 - 🌱 I’m currently focusing on practicing **Data Structures and Algorithms** everyday.
 
-- 👨‍ Self taught developer.
+- 👨‍ Self-taught developer.
 
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
@@ -36,12 +36,12 @@ I'm a first year CS graduate pursuing MCA and a passionate programmer who loves 
 <a href="https://in.linkedin.com/in/meet-patel247">
   <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
 </a>&nbsp;
-<a href="https://twitter.com/__Meet_Patel">
+<!-- <a href="https://twitter.com/__Meet_Patel">
   <img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/>
 </a>&nbsp;
 <a href="https://www.instagram.com/patel_meet.99/">
   <img height="40" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
-</a>&nbsp;
+</a>&nbsp; -->
 <br>
 <hr>
 
