@@ -67,11 +67,10 @@ fields_of_interests:
     "App Development",
     "Game Development",
     "Cloud Computing",
-    "Machine Learning",
   ]
 technical_background: ["Looking Forward Towards Software Developer Roles"]
 
-currently_learning: ["DSA, ReactJS, and Django"]
+currently_learning: ["DSA, Spring, and Basic of Javascript"]
 2023 Goals: ["Create 2-3 Projects and learn at least 3 new Technologies."]
 hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
