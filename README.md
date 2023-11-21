@@ -70,7 +70,7 @@ fields_of_interests:
   ]
 technical_background: ["Looking Forward Towards Software Developer Roles"]
 
-currently_learning: ["DSA, Spring, and Basic of Javascript"]
+currently_learning: ["Basic of Javascript" and "DSA"]
 2023 Goals: ["Create 2-3 Projects and learn at least 3 new Technologies."]
 hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
