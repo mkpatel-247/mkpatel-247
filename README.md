@@ -31,10 +31,10 @@ I'm a first year CS graduate pursuing MCA and a passionate programmer who loves 
   <img height="40" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>&nbsp;&nbsp;-->
 <a href="https://github.com/mkpatel-247">
-  <img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
+  <img height="40" src="https://skillicons.dev/icons?i=github"/>
 </a>&nbsp;
 <a href="https://in.linkedin.com/in/meet-patel247">
-  <img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
+  <img height="40" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>&nbsp;
 <!-- <a href="https://twitter.com/__Meet_Patel">
   <img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/>
@@ -98,8 +98,7 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> -->
 <!--  ![image](https://github.com/mkpatel-247/mkpatel-247/assets/81353451/da5bdc9e-4d3e-4581-96da-97bd2e659563)
  to fetch icon follow this link- https://devicon.dev/ -->
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,postman,django,mongodb,vscode" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,angular,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,linux,angular,java,python,mysql,git,postman,django,mongodb,vscode" />
 </span>
 <hr>
 
