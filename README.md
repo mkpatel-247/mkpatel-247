@@ -60,7 +60,7 @@ education:
     "Pursuing Master's of Computer Application",
     "Bachelor's of Computer Application",
   ]
-# company:
+company: WebCodeGenie Technology
 fields_of_interests:
   [
     "Web Development",
@@ -68,10 +68,10 @@ fields_of_interests:
     "Game Development",
     "Cloud Computing",
   ]
-technical_background: ["Looking Forward Towards Software Developer Roles"]
+technical_background: ["Software Developer Intern"]
 
-currently_learning: ["Basic of Javascript" and "DSA"]
-2023 Goals: ["Create 2-3 Projects and learn at least 3 new Technologies."]
+currently_learning: ["Basic of TypeScript" and "Angular Framework" with this practicing DSA Problems]
+2024 Goals: ["Gather knowledge about technologies and Be a Full Stack Developer."]
 hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
 ```
@@ -87,6 +87,7 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/> -->
@@ -97,7 +98,8 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> -->
 <!--  ![image](https://github.com/mkpatel-247/mkpatel-247/assets/81353451/da5bdc9e-4d3e-4581-96da-97bd2e659563)
  to fetch icon follow this link- https://devicon.dev/ -->
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,js,bootstrap,git,postman,django,mongodb,php,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,postman,django,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,angular,linux" />
 </span>
 <hr>
 
