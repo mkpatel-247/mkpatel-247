@@ -57,7 +57,7 @@ current_job: Student
 education:
   [
     "Self-Taught Developer",
-    "Pursuing Master's of Computer Application",
+    "Master's of Computer Application",
     "Bachelor's of Computer Application",
   ]
 company: WebCodeGenie Technology
