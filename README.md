@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=mkpatel-247&style=plastic&color=blue" /> 
 <hr>
 
-I'm a first year CS graduate pursuing MCA and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills also trying to engage in community to gain knowledge about programming and related stuffs.  <br>
+Hi, I'm a passionate programmer who loves to code and explore new technologies. Having completed my MCA degree, I work as an Intern Software Engineer at a renowned organization. My current focus is on working with Angular and related tech-stack in real-world projects. I'm a self-learner with a creatively curious mindset, always eager to expand my knowledge. I enjoy engaging with the developer community to stay updated and share insights on programming and the latest technologies.  <br>
   <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height="300" width="400"/>
   
 
