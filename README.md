@@ -78,7 +78,7 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px><i><b>&nbsp;Some Tools That I Have Used and Learned</b></i></h2>
 <p align="center">
-<span align="left">
+<span>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c-sharp" width="45" height="45" />
@@ -98,10 +98,10 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> -->
 <!--  ![image](https://github.com/mkpatel-247/mkpatel-247/assets/81353451/da5bdc9e-4d3e-4581-96da-97bd2e659563)
  to fetch icon follow this link- https://devicon.dev/ -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,linux,angular,java,python,mysql,git,postman,django,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,linux,angular,java,python,mysql,git,postman,django,mongodb,vscode,nodejs,docker&perline=10" />
 </span>
 <hr>
-
+</p>
 <details open="">
 <summary>
 <h2><i><b>📈 Github Stats : </b></i></h2>
