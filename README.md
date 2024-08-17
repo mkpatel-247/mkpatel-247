@@ -53,7 +53,7 @@ Hi, I'm a passionate programmer who loves to code and explore new technologies. 
 ```yaml
 name: Meet Patel
 located_in: Gujarat, India
-current_job: Student
+current_job: Intern Software Engineer
 education:
   [
     "Self-Taught Developer",
