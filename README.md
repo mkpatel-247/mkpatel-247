@@ -98,7 +98,7 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> -->
 <!--  ![image](https://github.com/mkpatel-247/mkpatel-247/assets/81353451/da5bdc9e-4d3e-4581-96da-97bd2e659563)
  to fetch icon follow this link- https://devicon.dev/ -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,linux,angular,java,python,mysql,git,postman,django,mongodb,vscode,nodejs,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,linux,angular,java,python,mysql,git,postman,django,mongodb,vscode,nodejs,docker,tailwind,golang&perline=10" />
 </span>
 <hr>
 </p>
