@@ -119,7 +119,12 @@ hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 </details>
 <p align="center">
 <!--Snake Game-->
-<img src="https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg"/>
+<!-- <img src="https://github.com/mkpatel-247/mkpatel-247/blob/output/github-contribution-grid-snake.svg"/> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <img src="https://github.com/mkpatel-247/mkpatel-247/blob/main/gitartwork.svg"/>
 
