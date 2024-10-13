@@ -68,12 +68,32 @@ fields_of_interests:
     "Game Development",
     "Cloud Computing",
   ]
-technical_background: ["Software Developer Intern"]
 
-currently_learning: [Exploring the fundamentals of Node.js and MongoDB, while also enhancing my problem-solving skills through regular Data Structures and Algorithms (DSA) practice. Additionally, I’m delving deeper into advanced concepts within the Angular Framework to strengthen my frontend expertise.]
-2024 Goals: ["Gather knowledge about technologies and Be a Full Stack Developer."]
-hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
+technical_background: [
+  "Intern Software Engineer at WebCodeGenie (Focused on Angular, Node.js, and MongoDB)",
+  "Self-Taught Developer with strong problem-solving skills",
+  "Experience with building scalable web applications"
+]
 
+currently_learning: [
+  "Fundamentals of Node.js and MongoDB",
+  "Regularly practicing Data Structures and Algorithms (DSA)",
+  "Advanced concepts of the Angular Framework"
+]
+
+2024 Goals: [
+  "Master Node.js and MongoDB, and apply them in full-stack projects",
+  "Build a portfolio showcasing 2-3 full-stack applications",
+  "Deepen understanding of Angular’s advanced features",
+  "Continue improving problem-solving skills with DSA"
+]
+
+hobbies: [
+  "Gaming – Strategic thinking and teamwork",
+  "Cinema – Storytelling and creativity",
+  "Art – Creativity and design skills",
+  "Listening to Podcasts – Staying informed and inspired by tech innovators"
+]
 ```
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px><i><b>&nbsp;Some Tools That I Have Used and Learned</b></i></h2>
