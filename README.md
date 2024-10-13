@@ -70,7 +70,7 @@ fields_of_interests:
   ]
 technical_background: ["Software Developer Intern"]
 
-currently_learning: ["Basic of TypeScript" and "Angular Framework" with this practicing DSA Problems]
+currently_learning: [Exploring the fundamentals of Node.js and MongoDB, while also enhancing my problem-solving skills through regular Data Structures and Algorithms (DSA) practice. Additionally, I’m delving deeper into advanced concepts within the Angular Framework to strengthen my frontend expertise.]
 2024 Goals: ["Gather knowledge about technologies and Be a Full Stack Developer."]
 hobbies: ["Gaming🎮", "Cinema🍿", "Art🎨", "Listening Podcast👂"]
 
