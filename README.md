@@ -53,7 +53,7 @@ Hi, I'm a passionate programmer who loves to code and explore new technologies. 
 ```yaml
 name: Meet Patel
 located_in: Gujarat, India
-current_job: Intern Software Engineer
+current_job: Software Engineer
 education:
   [
     "Self-Taught Developer",
@@ -70,7 +70,8 @@ fields_of_interests:
   ]
 
 technical_background: [
-  "Intern Software Engineer at WebCodeGenie (Focused on Angular, Node.js, and MongoDB)",
+  "Software Engineer at WebCodeGenie (Focused on Angular, Node.js, and MongoDB - MEAN)",
+  "Intern Software Engineer at WebCodeGenie (Focused on Angular)",
   "Self-Taught Developer with strong problem-solving skills",
   "Experience with building scalable web applications"
 ]
