@@ -10,7 +10,11 @@
 <img src="https://komarev.com/ghpvc/?username=mkpatel-247&style=plastic&color=blue" /> 
 <hr>
 
-Hi, I'm a passionate programmer who loves to code and explore new technologies. Having completed my MCA degree, I work as an Intern Software Engineer at a renowned organization. My current focus is on working with Angular and related tech-stack in real-world projects. I'm a self-learner with a creatively curious mindset, always eager to expand my knowledge. I enjoy engaging with the developer community to stay updated and share insights on programming and the latest technologies.  <br>
+Hey there! I’m Meet Patel, a MEAN stack developer passionate about building scalable and high-performing web applications. Currently, I work as a Software Developer at WebCodeGenie, crafting seamless digital experiences with Angular, Node.js, Express, and MongoDB. While MEAN is my core stack, I’m always open to exploring new technologies and adapting to evolving challenges.
+
+My approach to development is fueled by curiosity and continuous learning. Whether it's optimizing frontend performance, refining backend logic, or diving into cloud solutions, I thrive on solving complex problems and pushing my skills to the next level.
+
+Beyond coding, I actively engage with the developer community, exchanging insights, sharing knowledge, and staying on top of the latest tech trends. Let’s connect, collaborate, and build something awesome! 🚀  <br>
   <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height="300" width="400"/>
   
 
