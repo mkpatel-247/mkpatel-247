@@ -82,7 +82,7 @@ currently_learning: [
   "Advanced concepts of the Angular Framework"
 ]
 
-2024 Goals: [
+2025 Goals: [
   "Master Node.js and MongoDB, and apply them in full-stack projects",
   "Build a portfolio showcasing 2-3 full-stack applications",
   "Deepen understanding of Angular’s advanced features",
