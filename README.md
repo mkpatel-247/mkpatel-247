@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/mkpatel-247">
     <img src="https://capsule-render.vercel.app/api?section=header&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
-    <img src="https://capsule-render.vercel.app/api?section=footer&type=transparent&fontColor=2ea5f5&text=Hey,%20I'm%20Meet&height=150&fontSize=60&desc=%20Software%20Developer&descAlignY=75&descAlign=63"/>
+    <img src="https://capsule-render.vercel.app/api?section=footer&type=transparent&fontColor=2ea5f5&text=Hey,%20I'm%20Meet&height=150&fontSize=60&desc=%20Software%20Engineer&descAlignY=75&descAlign=63"/>
 <!--     <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 70px>  -->
     <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&!&animation=fadeIn&color=gradient&height=100&texBg=true&"/>
   </a>
@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=mkpatel-247&style=plastic&color=blue" /> 
 <hr>
 
-Hey there! I’m Meet Patel, a MEAN stack developer passionate about building scalable and high-performing web applications. Currently, I work as a Software Developer at WebCodeGenie, crafting seamless digital experiences with Angular, Node.js, Express, and MongoDB. While MEAN is my core stack, I’m always open to exploring new technologies and adapting to evolving challenges.
+Hey there! I’m Meet Patel, a MEAN stack developer passionate about building scalable and high-performing web applications. Currently, I work as a Software Engineer at WebCodeGenie, crafting seamless digital experiences with Angular, Node.js, Express, and MongoDB. While MEAN is my core stack, I’m always open to exploring new technologies and adapting to evolving challenges.
 
 My approach to development is fueled by curiosity and continuous learning. Whether it's optimizing frontend performance, refining backend logic, or diving into cloud solutions, I thrive on solving complex problems and pushing my skills to the next level.
 
@@ -20,7 +20,7 @@ Beyond coding, I actively engage with the developer community, exchanging insigh
 
 - 🌱 I’m currently focusing on practicing **Data Structures and Algorithms** everyday.
 
-- 👨‍ Self taught developer.
+- 👨‍ Self-taught developer.
 
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 
@@ -123,7 +123,7 @@ hobbies: [
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/> -->
 <!--  ![image](https://github.com/mkpatel-247/mkpatel-247/assets/81353451/da5bdc9e-4d3e-4581-96da-97bd2e659563)
  to fetch icon follow this link- https://devicon.dev/ -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,ts,linux,angular,java,python,mysql,git,postman,django,mongodb,vscode,nodejs,docker,tailwind,golang&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,mongodb,express,angular,nodejs,rxjs,git,postman,linux,vscode,python,bash,gitlab,md,github,java,mysql,redis,django,golang,docker,tailwind,react,redux,vite&perline=10" />
 </span>
 <hr>
 </p>
