@@ -49,7 +49,7 @@ Let’s build something meaningful 🚀
 
 ## 💡 Quick Snapshot
 
-<img align="right" src="https://raw.githubusercontent.com/mkpatel-247/mkpatel-247/refs/heads/main/code.gif" height="280" width="300">
+<!-- <img align="right" src="https://raw.githubusercontent.com/mkpatel-247/mkpatel-247/refs/heads/main/code.gif" height="280" width="300"> -->
 
 - 👨‍💻 Full-Stack Software Engineer (MEAN)  
 - 🧠 Product-oriented & execution-focused  
