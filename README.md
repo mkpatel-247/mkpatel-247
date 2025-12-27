@@ -10,23 +10,57 @@
 <img src="https://komarev.com/ghpvc/?username=mkpatel-247&style=plastic&color=blue" /> 
 <hr>
 
-Hey there! I’m Meet Patel, a MEAN stack developer passionate about building scalable and high-performing web applications. Currently, I work as a Software Engineer at WebCodeGenie, crafting seamless digital experiences with Angular, Node.js, Express, and MongoDB. While MEAN is my core stack, I’m always open to exploring new technologies and adapting to evolving challenges.
+Hey, I’m **Meet Patel**, a **Software Engineer** who enjoys building **real-world, scalable web products** from idea to production.
 
-My approach to development is fueled by curiosity and continuous learning. Whether it's optimizing frontend performance, refining backend logic, or diving into cloud solutions, I thrive on solving complex problems and pushing my skills to the next level.
+I currently work at **WebCodeGenie**, where I design and develop full-stack applications using the **MEAN stack (Angular, Node.js, Express, MongoDB)**. My role goes beyond writing features - I focus on **building maintainable systems, clean APIs, and user-friendly interfaces** that can grow with the business.
 
-Beyond coding, I actively engage with the developer community, exchanging insights, sharing knowledge, and staying on top of the latest tech trends. Let’s connect, collaborate, and build something awesome! 🚀  <br>
-  <img align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" height="300" width="400"/>
-  
+I enjoy working close to the product:
+- understanding requirements
+- translating them into technical solutions
+- and continuously improving performance, reliability, and developer experience
 
-- 🌱 I’m currently focusing on practicing **Data Structures and Algorithms** everyday.
+While MEAN is my primary stack, I’m **technology-agnostic** by mindset. I care more about **choosing the right tool, architecture, and trade-offs** than sticking to a single framework.
 
-- 👨‍ Self-taught developer.
+### I’m particularly interested in:
 
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
+<img 
+  align="right" 
+  src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
+  width="380"
+  height="300"
+/>
 
-- ⚡ Fun fact: Many owners of large tech companies loved video games as kids :)
+- SaaS products
+- internal tools
+- dashboards
+- automation-driven platforms
+- early-stage product development
 
-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 14px> Coding Profile: [![leetcode badge](https://img.shields.io/badge/meetpatel__247-30302f?style=flat&logo=leetcode)](https://leetcode.com/meetpatel_247/) [![GFG badge](https://img.shields.io/badge/meetpatel_24-30302f?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/meetpatel24/) [![CodeChef badge](https://img.shields.io/badge/meetpatel_247-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/meetpatel_24) [![hackerrank badge](https://img.shields.io/badge/meetpatel_24-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/meetpatel_24?hr_r=1)
+### 🔍 What I’m Focused On Right Now
+
+- 🧩 Building **scalable frontend systems** with Angular  
+- 🔗 Designing **clean, reliable backend APIs**  
+- 🚀 Improving **product performance & maintainability**  
+- 🏗️ Learning **system design** through real-world projects  
+- 🤝 Collaborating on **product-driven engineering problems**
+
+I enjoy collaborating with founders, designers, and engineers to **ship useful software, fast - without compromising quality**.
+
+Let’s build something meaningful 🚀  <br>
+
+<br clear="right"/>
+
+## 💡 Quick Snapshot
+
+<img align="right" src="https://raw.githubusercontent.com/mkpatel-247/mkpatel-247/refs/heads/main/code.gif" height="280" width="300">
+
+- 👨‍💻 Full-Stack Software Engineer (MEAN)  
+- 🧠 Product-oriented & execution-focused  
+- 🛠️ Comfortable owning features end-to-end  
+- 🌱 Always improving through building, not theory  
+- ⚡ Fun fact: Many great products start as side projects
+- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=14px> Coding Profile: [![leetcode badge](https://img.shields.io/badge/meetpatel__247-30302f?style=flat&logo=leetcode)](https://leetcode.com/meetpatel_247/) [![GFG badge](https://img.shields.io/badge/meetpatel_24-30302f?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/meetpatel24/) [![CodeChef badge](https://img.shields.io/badge/meetpatel_247-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/meetpatel_24) [![hackerrank badge](https://img.shields.io/badge/meetpatel_24-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/meetpatel_24?hr_r=1)
+
 
 <h2>
   <i><b>Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></b></i>
@@ -56,48 +90,36 @@ Beyond coding, I actively engage with the developer community, exchanging insigh
   
 ```yaml
 name: Meet Patel
-located_in: Gujarat, India
-current_job: Software Engineer
-education:
-  [
-    "Self-Taught Developer",
-    "Master's of Computer Application",
-    "Bachelor's of Computer Application",
-  ]
+location: Gujarat, India
+role: Software Engineer
 company: WebCodeGenie Technology
-fields_of_interests:
-  [
-    "Web Development",
-    "App Development",
-    "Game Development",
-    "Cloud Computing",
-  ]
 
-technical_background: [
-  "Software Engineer at WebCodeGenie (Focused on Angular, Node.js, and MongoDB - MEAN)",
-  "Intern Software Engineer at WebCodeGenie (Focused on Angular)",
-  "Self-Taught Developer with strong problem-solving skills",
-  "Experience with building scalable web applications"
+background: [
+  "Full-stack development with MEAN stack",
+  "Experience working on production applications",
+  "Comfortable owning features end-to-end",
+  "Focus on scalability, maintainability, and clean architecture"
 ]
 
-currently_learning: [
-  "Fundamentals of Node.js and MongoDB",
-  "Regularly practicing Data Structures and Algorithms (DSA)",
-  "Advanced concepts of the Angular Framework"
+core_strengths: [
+  "Frontend engineering with Angular",
+  "Backend API development with Node.js & MongoDB",
+  "Translating business requirements into technical solutions",
+  "Writing clean, readable, production-ready code"
 ]
 
-2025 Goals: [
-  "Master Node.js and MongoDB, and apply them in full-stack projects",
-  "Build a portfolio showcasing 2-3 full-stack applications",
-  "Deepen understanding of Angular’s advanced features",
-  "Continue improving problem-solving skills with DSA"
+currently_exploring: [
+  "SaaS product architecture",
+  "Backend scalability patterns",
+  "Developer experience & tooling",
+  "Cloud & deployment workflows"
 ]
 
-hobbies: [
-  "Gaming – Strategic thinking and teamwork",
-  "Cinema – Storytelling and creativity",
-  "Art – Creativity and design skills",
-  "Listening to Podcasts – Staying informed and inspired by tech innovators"
+2026_goals: [
+  "Build and ship multiple real-world full-stack products",
+  "Strengthen system design through hands-on work",
+  "Collaborate with founders and product teams",
+  "Grow into a strong product-focused full-stack engineer"
 ]
 ```
 
@@ -154,10 +176,13 @@ hobbies: [
 
 <img src="https://github.com/mkpatel-247/mkpatel-247/blob/main/gitartwork.svg"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FF0000"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&color=FF0000&size=19&width=435&lines=Thanks+For+Visiting!+Happy+Building+🚀"/>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&animation=fadeIn&color=gradient&height=100&texBg=true&fontAlign=79"/>
 </p>
+
+
+
 <!---
 mkpatel-247/mkpatel-247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
