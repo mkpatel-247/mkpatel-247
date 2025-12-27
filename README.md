@@ -21,20 +21,18 @@ I enjoy working close to the product:
 
 While MEAN is my primary stack, I’m **technology-agnostic** by mindset. I care more about **choosing the right tool, architecture, and trade-offs** than sticking to a single framework.
 
-### I’m particularly interested in:
-
 <img 
   align="right" 
   src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" 
-  width="380"
-  height="300"
+  width="430"
+  height="350"
 />
 
-- SaaS products
-- internal tools
-- dashboards
-- automation-driven platforms
-- early-stage product development
+### 🎯 I’m particularly interested in:
+- 🚀 SaaS products  
+- 📊 Internal tools & dashboards  
+- ⚙️ Automation-driven platforms  
+- 🌱 Early-stage product development 
 
 ### 🔍 What I’m Focused On Right Now
 
@@ -46,8 +44,7 @@ While MEAN is my primary stack, I’m **technology-agnostic** by mindset. I care
 
 I enjoy collaborating with founders, designers, and engineers to **ship useful software, fast - without compromising quality**.
 
-Let’s build something meaningful 🚀  <br>
-
+Let’s build something meaningful 🚀
 <br clear="right"/>
 
 ## 💡 Quick Snapshot
@@ -84,7 +81,7 @@ Let’s build something meaningful 🚀  <br>
 <hr>
 
 <h1><i><b>
-  👨‍💻&nbsp;About Me and My Interests 👇
+  🧠&nbsp;About Me
   </b></i>
 </h1>
   
