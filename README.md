@@ -15,11 +15,12 @@ Hey, I’m **Meet Patel**, a **Software Engineer** who enjoys building **real-wo
 I currently work at **WebCodeGenie**, where I design and develop full-stack applications using the **MEAN stack (Angular, Node.js, Express, MongoDB)**. My role goes beyond writing features - I focus on **building maintainable systems, clean APIs, and user-friendly interfaces** that can grow with the business.
 
 I enjoy working close to the product:
-- understanding requirements
-- translating them into technical solutions
-- and continuously improving performance, reliability, and developer experience
 
-While MEAN is my primary stack, I’m **technology-agnostic** by mindset. I care more about **choosing the right tool, architecture, and trade-offs** than sticking to a single framework.
+- Understanding real business requirements  
+- Translating them into scalable technical solutions  
+- Continuously improving performance, reliability, and developer experience
+
+While MEAN is my primary stack, I’m **technology-agnostic by mindset**. I care more about **choosing the right tools, architecture, and trade-offs** than sticking to a single framework.
 
 <img 
   align="right" 
